@@ -39,31 +39,31 @@ others.
 <br>
 Details: 
 1. Business Proof of Concept:
-o Problem Statement: (What project can do). An intuitive, modern software
+- Problem Statement: (What project can do). An intuitive, modern software
 solution can enhance operational efficiency and user experience.
-o Target Market: (Your end-users and target customers)
-o Unique Selling Proposition: (Business Proposition), and cost-effective.
+- Target Market: (Your end-users and target customers)
+- Unique Selling Proposition: (Business Proposition), and cost-effective.
 2. Total Cost of Ownership (TCO):
-o Development Costs: Salaries for developers, cost of training (if required), and
+- Development Costs: Salaries for developers, cost of training (if required), and
 software licenses.
-o Operational Costs: Hosting the database, ongoing software maintenance, and
+- Operational Costs: Hosting the database, ongoing software maintenance, and
 support.
-o Deployment Costs: Training for users, support staff, hardware (if not already
+- Deployment Costs: Training for users, support staff, hardware (if not already
 available), and potential costs related to data migration.
-o Update & Upgrade Costs: Periodic software updates to add new features,
+- Update & Upgrade Costs: Periodic software updates to add new features,
 improve existing ones, or fix bugs.
-o End of Life Costs: Data backup and migration to a new system (if needed).
+- End of Life Costs: Data backup and migration to a new system (if needed).
 3. Requirements Gathering and Specification:
-o Understand the daily operations of (Your group project).
-o Design an intuitive interface.
-o Identify user roles (Admin, staff, user, etc.).
+- Understand the daily operations of (Your group project).
+- Design an intuitive interface.
+- Identify user roles (Admin, staff, user, etc.).
 4. Tools and Technologies:
-o Language: Java and other languages
-o GUI: JavaFX
-o Database: SQLite, MySQL, PostgreSQL, GCP BQ, or others
-o Version Control: Git & GitHub
+- Language: Java and other languages
+- GUI: JavaFX
+- Database: SQLite, MySQL, PostgreSQL, GCP BQ, or others
+- Version Control: Git & GitHub
 5. Stages of the Project:
-a. Stage 1: Market Research & Mockups
-o Conduct surveys with stake-holders to refine the problem statement and
+1. Stage 1: Market Research & Mockups
+- Conduct surveys with stake-holders to refine the problem statement and
 understand their pain points.
-o Design the layouts and UIs with Wireframe tool.
+- Design the layouts and UIs with Wireframe tool.
