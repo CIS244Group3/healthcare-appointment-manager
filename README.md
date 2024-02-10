@@ -62,7 +62,7 @@ improve existing ones, or fix bugs.
 - GUI: JavaFX
 - Database: SQLite, MySQL, PostgreSQL, GCP BQ, or others
 - Version Control: Git & GitHub
-5. Stages of the Project:
+5. Stages of the Project: \
   1. Stage 1: Market Research & Mockups
     - Conduct surveys with stake-holders to refine the problem statement and
       understand their pain points.
@@ -85,6 +85,7 @@ improve existing ones, or fix bugs.
 6. Stage 6: Feedback & Iteration
 - Collect user feedback post-deployment.
 - Implement improvements.
+<br>
 6. Deliverables:
 - Business concept document detailing market research and TCO.
 - Requirement specification.
