@@ -85,7 +85,7 @@ improve existing ones, or fix bugs.
 6. Stage 6: Feedback & Iteration
 - Collect user feedback post-deployment.
 - Implement improvements.
-<br>
+
 6. Deliverables:
 - Business concept document detailing market research and TCO.
 - Requirement specification.
