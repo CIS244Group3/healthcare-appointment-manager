@@ -63,8 +63,7 @@ improve existing ones, or fix bugs.
 - Database: SQLite, MySQL, PostgreSQL, GCP BQ, or others
 - Version Control: Git & GitHub
 5. Stages of the Project:
-  <br>
-  1. Stage 1: Market Research & Mockups \
+  1. Stage 1: Market Research & Mockups 
     - Conduct surveys with stake-holders to refine the problem statement and
       understand their pain points.
     - Design the layouts and UIs with Wireframe tool.
