@@ -4,7 +4,8 @@ Dear CIS244 Students,
 As we gear up for another impactful semester, I wanted to share some insights into one of our
 course's cornerstones – the semester-long Java project. It is more than just an academic
 exercise; it's an invaluable experience that bridges theory and practice.\
-**This hands-on project:**
+<br>
+**This is a hands-on project:**
 1. Reinforces Design Principles: Concepts learned in lectures come alive when applied to
 real-world scenarios, deepening understanding of design patterns, architecture, and
 user experience.
@@ -23,7 +24,7 @@ about shaping future-ready software professionals.
 I encourage each of you to embrace this project with enthusiasm and an open mind.
 Remember, the skills and experiences you gain here are foundational stepping stones for your
 career ahead.\
-\
+<br>
 
 
 
