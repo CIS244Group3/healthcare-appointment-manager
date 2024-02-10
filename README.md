@@ -24,6 +24,6 @@ I encourage each of you to embrace this project with enthusiasm and an open mind
 Remember, the skills and experiences you gain here are foundational stepping stones for your
 career ahead.
 Wishing you all a productive and enlightening semester. I'm here to support your journey every
-step of the way. \n
-Best regards,\n
+step of the way.\
+Best regards,\
 Kevin Truong
