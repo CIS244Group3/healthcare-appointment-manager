@@ -27,15 +27,17 @@ career ahead.\
 <br>
 
 
-Semester-Long Software Development Project:
-Title: <Your Group Project Title>
-Objective:
+Semester-Long Software Development Project:/
+Title:
+<br>
+Objective:/
 To design and implement a software solution that enables users to create, manage, draw
-insights, <fill in more what your project can do>, and assess the feasibility of a desktop
+insights, (fill in more what your project can do), and assess the feasibility of a desktop
 application. The project will focus on principles of software design, architectural patterns, user
 experience, security best practices, database management, object-oriented programming and
 others.
-Details:
+<br>
+Details:/
 1. Business Proof of Concept:
 o Problem Statement: <What project can do>. An intuitive, modern software
 solution can enhance operational efficiency and user experience.
