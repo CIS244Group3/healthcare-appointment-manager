@@ -39,10 +39,10 @@ others.
 <br>
 Details: 
 1. Business Proof of Concept:
-o Problem Statement: <What project can do>. An intuitive, modern software
+o Problem Statement: (What project can do). An intuitive, modern software
 solution can enhance operational efficiency and user experience.
-o Target Market: <Your end-users and target customers>
-o Unique Selling Proposition: <Business Proposition>, and cost-effective.
+o Target Market: (Your end-users and target customers)
+o Unique Selling Proposition: (Business Proposition), and cost-effective.
 2. Total Cost of Ownership (TCO):
 o Development Costs: Salaries for developers, cost of training (if required), and
 software licenses.
@@ -54,7 +54,7 @@ o Update & Upgrade Costs: Periodic software updates to add new features,
 improve existing ones, or fix bugs.
 o End of Life Costs: Data backup and migration to a new system (if needed).
 3. Requirements Gathering and Specification:
-o Understand the daily operations of <Your group project>.
+o Understand the daily operations of (Your group project).
 o Design an intuitive interface.
 o Identify user roles (Admin, staff, user, etc.).
 4. Tools and Technologies:
