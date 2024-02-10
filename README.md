@@ -37,7 +37,7 @@ application. The project will focus on principles of software design, architectu
 experience, security best practices, database management, object-oriented programming and
 others.
 <br>
-Details: \
+Details: 
 1. Business Proof of Concept:
 o Problem Statement: <What project can do>. An intuitive, modern software
 solution can enhance operational efficiency and user experience.
