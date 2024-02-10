@@ -67,3 +67,38 @@ improve existing ones, or fix bugs.
     - Conduct surveys with stake-holders to refine the problem statement and
       understand their pain points.
     - Design the layouts and UIs with Wireframe tool.
+- Design JavaFX mockups using tools like Scene Builder.
+- Get feedback on mockups from potential users.
+2. Stage 2: Backend Development
+- Set up the development environment.
+- Design database schema.
+- Develop core logic.
+3. Stage 3: JavaFX GUI Development
+- Design the interface using Scene Builder.
+- Connect GUI t- backend.
+4. Stage 4: Testing and Debugging
+- Unit tests using JUnit.
+- UI/UX testing.
+5. Stage 5: Deployment & Documentation
+- Package the application.
+- Write comprehensive user and technical documentation.
+6. Stage 6: Feedback & Iteration
+- Collect user feedback post-deployment.
+- Implement improvements.
+6. Deliverables:
+- Business concept document detailing market research and TCO.
+- Requirement specification.
+- Project proposal and JavaFX mockups.
+- GitHub repository.
+- Working prototype.
+- Final report with challenges, learnings, and future improvements.
+7. Grading Criteria:
+- Business Proof of Concept (20%)
+Quality and depth of market research.
+Clarity of the problem statement, target market, and USP (Unique Selling
+Proposition).
+- Requirement Analysis & Mockups (15%)
+Clarity and completeness of requirements.
+Quality of JavaFX mockups.
+- Code Quality & Functionality (35%)
+
