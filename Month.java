@@ -1,10 +1,16 @@
-import java.util.ArrayList;
+import java.util.HashMap;
+// import java.util.Collection;
 public class Month {
-    ArrayList <Day> daysOfTheMonth;
+    private HashMap<Integer,Day> daysOfTheMonth;
+
     public Month(){
-        for(int i = 1; i < 32; i++){
-            this.daysOfTheMonth.add(new Day(i));
+        for(int i = 1; i < 31; i++){
+            this.daysOfTheMonth.put(1, new Day());
         }
     }
-    // public makeDayAvailable
+    public void makeMonthAvailable(int index){
+        for(int i = 1; i < 31; i++){
+            this.daysOfTheMonth.get(1).setAllUnavailable();
+        }
+    }
 }
