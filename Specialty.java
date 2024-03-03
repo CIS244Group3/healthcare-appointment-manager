@@ -15,7 +15,8 @@ public class Specialty {
     public void displayInfo() {
             System.out.println("Speciality: " + name);
             System.out.println("Illnesses Treated: ");
-            test_loop: for (String illness : illnessesTreated) {
+        //     test_loop: 
+            for (String illness : illnessesTreated) {
                 System.out.println("-" + illness);
             }
     }
